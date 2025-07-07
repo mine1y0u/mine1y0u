@@ -10,9 +10,9 @@
 🧠 I'm also exploring:
 - 📱 Responsive Web Design
 - 🌐 HTML, CSS, and JavaScript
-- 🧪 Academic experience in C, C++, C#, and Java 
 - 🛠 Tools like Figma, VS Code, and GitHub
 
+🧪 I also have academic experience in C, C++, C#, and Java 
 📚 I'm committed to learning something new every day in tech and design.<br>
 ✨ I enjoy crafting visually appealing and intuitive user experiences.
 
