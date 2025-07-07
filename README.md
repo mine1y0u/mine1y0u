@@ -12,7 +12,7 @@
 - 🌐 HTML, CSS, and JavaScript
 - 🛠 Tools like Figma, VS Code, and GitHub
 
-🧪 I also have academic experience in C, C++, C#, and Java 
+🧪 I also have academic experience in C, C++, C#, and Java <br>
 📚 I'm committed to learning something new every day in tech and design.<br>
 ✨ I enjoy crafting visually appealing and intuitive user experiences.
 
